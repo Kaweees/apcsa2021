@@ -10,8 +10,8 @@ All of my course files for AP Computer Science A, taken through CAMS
 
 ### Built With
  - Java:
-   - java.util.Scanner
-   - org.junit.Test
+   - Scanner
+   - JUnit
    - java.nio.file
 
 [contributors-shield]: https://img.shields.io/github/contributors/Kaweees/apcsa2021.svg?style=for-the-badge
