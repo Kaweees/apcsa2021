@@ -5,9 +5,9 @@ public class TestJunit {
   @Test
   public void testAdd() {
     NumbersRiddle test = new NumbersRiddle();
-    assertEquals(3, test.evaluate(0));
-    assertEquals(3, test.evaluate(9));
-    assertEquals(3, test.evaluate(10));
-    assertEquals(3, test.evaluate(21));
+    assertEquals(3, test.evaluate());
+    assertEquals(3, test.evaluate());
+    assertEquals(3, test.evaluate());
+    assertEquals(3, test.evaluate());
   } // testAdd method
 } // TestJunit class
