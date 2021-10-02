@@ -5,6 +5,7 @@ public class NumbersRiddle {
     Scanner input = new Scanner(System.in);
     System.out.print("\nEnter a Number: ");
     double startingNum = input.nextDouble();
+    input.close();
     double finalNum = startingNum;
     System.out.printf("Starting number: %,.2f\n", finalNum);
     finalNum *= 2.0;
